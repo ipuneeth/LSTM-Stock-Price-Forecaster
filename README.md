@@ -78,5 +78,6 @@ This project is optimized for **Google Colab**.
 
 **A Puneeth Chowdhary**
 * **Connect:** https://github.com/ipuneeth
+*              www.linkedin.com/in/puneethadusumilli
 
 ---
