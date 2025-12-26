@@ -76,9 +76,7 @@ This project is optimized for **Google Colab**.
 
 ## 👤 Author
 
-**[Your Name]**
-* **Role:** Full Stack / AI Enthusiast
-* **Connect:** [Your LinkedIn Profile Link]
+**A Puneeth Chowdhary**
+* **Connect:** https://github.com/ipuneeth
 
 ---
-*This project was developed as part of a technical assessment to demonstrate competency in Time Series Forecasting and Deep Learning.*
