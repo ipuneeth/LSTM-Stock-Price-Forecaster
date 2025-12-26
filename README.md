@@ -77,7 +77,6 @@ This project is optimized for **Google Colab**.
 ## 👤 Author
 
 **A Puneeth Chowdhary**
-* **Connect:** https://github.com/ipuneeth
-*              www.linkedin.com/in/puneethadusumilli
+* **Connect:** https://github.com/ipuneeth | www.linkedin.com/in/puneethadusumilli
 
 ---
